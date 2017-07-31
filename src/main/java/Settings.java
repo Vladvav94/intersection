@@ -1,3 +1,4 @@
+
 import javafx.util.Pair;
 //WKT,Class,SiteID,SectorID,SectorUID,BTSName,Technology,CellID,Band,LAC,RAC,BSIC,BCC,NCC,SAC,TAC,eNodeB,Longitude,Latitude,Azimuth,Height,Tilt,Address
 public class Settings {
@@ -13,7 +14,7 @@ public class Settings {
     //public static String[] inputs={"11_50_20151112_L_2600_BS_6.csv"};
 
     public static String[] cntArray = {"9672157505","9652779131"};
-    public static String [][] lacSellIdArray = {{"27677#15490","27677#26563","27677#26565","27677#54273",
+    public static String[][] lacSellIdArray = {{"27677#15490","27677#26563","27677#26565","27677#54273",
             "27685#12314","770742#3","770742#4","770742#6"},
             {"770714#1","770714#3","770714#4","770714#6"}};
 
